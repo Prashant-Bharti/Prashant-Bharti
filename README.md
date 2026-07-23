@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prashant-Bharti
 - 👀 I’m interested in ... KNOWING
-- 🌱 I’m currently learning ... TECH
-- 💞️ I’m looking to collaborate on ... RATION
-- 📫 How to reach me ... OFFLINE
+- 🌱 I’m currently learning ... How it works
+- 💞️ I’m looking to collaborate on ... Craftsmanship
+- 📫 How to reach me ... Linkedin
 - ⚡ Fun fact: ... NOTHING MATTERS, BUT IT DOES.
 
 <!---
